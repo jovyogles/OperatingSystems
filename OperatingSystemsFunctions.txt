@@ -1,0 +1,4 @@
+Operating system function #1: Security
+Operating systems can protect unwanted visitors from logging onto a personal computer with password protection.
+Another security measure of an OS would be to protect users from Malware and viruses.
+Protection of user data is very important, and with the help of an operating system, you can protect your computer from threats.
