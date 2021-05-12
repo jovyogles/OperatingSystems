@@ -7,3 +7,8 @@ Operating system function #2: Control over system performance
 The OS will monitor the health of your system, and let the user know if something is not running correctly.
 The OS reports the response time and gives the user a complete view of the system help.
 This feautre helps the user trouble shoot problems with the computer or device in an easier way.
+
+Operating system function #3: Memory management
+The OS manages the primary memory and or main memory.
+Main memory can be accessed directly by the CPU and is a fast storage.
+When multi programming is used, the operating system decides not only the order in which the memory will be given, but also the length.
